@@ -1,0 +1,7 @@
+All of these python packages must be installed.
+
+tensorflow
+opencv
+imutils
+numpy
+matplotlib
