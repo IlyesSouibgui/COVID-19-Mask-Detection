@@ -1,1 +1,1 @@
-# COVID-19-Mask-Detection
+# COVID-19-Mask-Detector
